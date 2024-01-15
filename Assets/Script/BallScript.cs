@@ -22,7 +22,7 @@ public class BallScript : MonoBehaviour
         if (rigidBody.velocity != Vector2.zero)
         {
             rigidBody.AddForce(-(rigidBody.velocity * dragMultiplier));
-
+              //sdfdsf
         }
     }
 }
